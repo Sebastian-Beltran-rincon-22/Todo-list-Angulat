@@ -14,7 +14,7 @@ export class AppComponent {
   allItems = [
     {description: "dormir",done:true},
     {description: "ir a mercar",done:false},
-    {description: "lavar ropa",done:false},
+    {description: "lavar ropa",done:true},
     {description: "ir al doctor",done:false},
     {description: "ir al odontologo",done:false},
   ]
